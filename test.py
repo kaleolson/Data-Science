@@ -1,4 +1,5 @@
-x = 55
+x = 5
+
 print (x)
 #echo "# Data-Science" >> README.md
 #git init
