@@ -1,6 +1,8 @@
-x = 5
+x = 10
+y = 20
+z = 10+20
 
-print (x)
+print (z)
 #echo "# Data-Science" >> README.md
 #git init
 #git add README.md

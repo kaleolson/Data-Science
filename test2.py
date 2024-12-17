@@ -1,4 +1,10 @@
-y = "Skola är "
-x = "kul"
+"""
+sup
+"""
+
+
+y = "skola är "
+-x = "kul"
 z = "inte kul"
-print (y + x)
+print (f'''Jag tycker att {y}{-x} 
+oftast iallafall''')
