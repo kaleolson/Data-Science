@@ -4,7 +4,14 @@ sup
 
 
 y = "skola är "
--x = "kul"
+x = "kul"
 z = "inte kul"
-print (f'''Jag tycker att {y}{-x} 
+print (f'''Jag tycker att {y}{x} 
 oftast iallafall''')
+
+sträng = "Tjo"
+inta = 7
+flytning = 8.0
+lögn = False
+
+print(type(sträng),type(inta),type(flytning),type(lögn))
