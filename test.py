@@ -33,6 +33,10 @@ print(text.strip())
 print(text.replace("roligt","fantastiskt"))
 print(text.upper()) """
 
-age = input("Skriv in din ålder: ")
+""" age = input("Skriv in din ålder: ")
 namn = input("Skriv in ditt namn: ")
 print(f"Hej {namn}! Du är {age} år gammal..... och jag vet vart du bor")
+ """
+
+reallyLongListNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+print(reallyLongListNumbers[:10:3])
